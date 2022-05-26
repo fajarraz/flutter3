@@ -1,0 +1,12 @@
+@startuml
+
+class Person {
+    # String name
+    + a
+    - asb
+
+    + String getName(name)
+    + String setName(name)
+}
+
+@enduml
