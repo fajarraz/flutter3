@@ -38,7 +38,7 @@ class HomePage extends StatelessWidget {
         onPressed: () {
           Navigator.of(context).push(MaterialPageRoute(builder: (context) => const About()));
         },
-        child: Text("Go Profile"),
+        child: Text("Go Profiles"),
       ),
     );
   }
