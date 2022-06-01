@@ -14,7 +14,7 @@ class Profile extends StatelessWidget {
             Navigator.of(context).pop();
           },
         ),
-        title: const Text("Profile"),
+        title: const Text("Profiale"),
       ),
     );
   }
